@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="start">Начать</string>
+    <string name="back">Назад</string>
+    <string name="level">Уровень:</string>
+    <string name="lone">Выберите историческое событие, которое произошло раньше всего.</string>
+    <string name="ltwo">Определите по портрету имя выдающегося русского исторического деятеля.</string>
+    <string name="lthree">Прочтите отрывок из исторического источника/воспоминаний/политической речи и укажите фамилию его автора.</string>
+    <string name="lfour">Напишите пропущенное слово/словосочетание/понятие(термин).</string>
+    <string name="lfive">Рассмотрите схему и выполните задания.</string>
+    <string name="lsix">История VIII—XIII веков.</string>
+    <string name="lseven">Начало XIX века</string>
+    <string name="leight">Напишите название исторического объекта, изображенного на картинке.</string>
+    <string name="contin">Старт</string>
+    <string name="next">Далее</string>
+</resources>
